@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rn-b/taenze-der-renaissance-und-des-barock/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/rn-b/taenze-der-renaissance-und-des-barock/","tags":["gardenEntry"],"dgShowLocalGraph":true}
 ---
 
 # Leipziger Tanzsammlung
