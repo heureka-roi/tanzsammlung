@@ -3,7 +3,7 @@
 ---
 
 # Leipziger Tanzsammlung
-**[Veranstaltungen](https://calendar.google.com/calendar/u/1?cid=aGlzdG9yaXNjaGVydGFuei5sZWlwemlnQGdtYWlsLmNvbQ) | [[Tanzmeister\|Tanzmeister]] |  [[Quellen\|Quellen]]  | [[Tanzbeschreibungen\|Tanzbeschreibungen]] |**
+**[Veranstaltungen](https://calendar.google.com/calendar/u/1?cid=aGlzdG9yaXNjaGVydGFuei5sZWlwemlnQGdtYWlsLmNvbQ) | [[RnB/Tanzmeister\|Tanzmeister]] |  [[RnB/Quellen\|Quellen]]  | [[RnB/Tanzbeschreibungen\|Tanzbeschreibungen]] |**
 
 
 # Über diese Seite
