@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rn-b/arbeau/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/rn-b/arbeau/"}
 ---
 
 
